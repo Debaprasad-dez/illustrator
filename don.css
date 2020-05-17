@@ -69,6 +69,11 @@ body {
 }
 #container2 i {
   margin-right: 1vw;
+  color: rgb(73, 73, 73);
+}
+#container2 i:hover {
+  margin-right: 1vw;
+  color: rgb(0, 0, 0);
 }
 #sticker2 {
   margin-top: 0vh;
